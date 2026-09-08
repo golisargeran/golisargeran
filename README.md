@@ -14,7 +14,7 @@ I'm learning to build responsive, user-focused interfaces while combining techni
 - react(coming soon!)
 
 ## What I'm building
-- mental health tracker - a mood and habit tracker UI(HTML/CS/JS)
+- mental health tracker - a mood and habit tracker UI(HTML/CSS/JS)
 - FemTech UX case study - based on real CRM experience at Impo App
 - CRM dashboard, redesign reimagining  Didar CRM's user experience
 - ui experiments - Responsive practice pages
